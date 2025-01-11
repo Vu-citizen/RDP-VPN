@@ -182,8 +182,7 @@ EXAMPLE 4C
 
 </p>
 <p>
-
-Next we will look at the IP again using the VM browser now that we have connected the VPN to Japan. The website www.whatismyipaddress.com shows yet another IP address using the VPN from Japan. This is quite amazing.
+In example 4d, We look at the address on the website called www.whatismyipaddress.com and notice that, even though it is connected to the Netherlands, it shows us the actual IP of the address is actually in the United Kindom for some reason, the number in the IP address remains the same in the application so we are masking the IP address.
   
 </p>
 <br />
@@ -195,7 +194,7 @@ EXAMPLE 4D
 </p>
 <p>
 
-Next we will look at the to use a new vpn service call nord vpn and connect to japan.This is a subscription service require you to paid but is advertise as more secure but no all vpn are not that secure at the end of the day expecial the free one if its its free you are the money they want. look at example 5
+Next, we will look at using a new Nord VPN service to connect to Japan. This subscription service requires you to pay but is advertised as more secure, but not all VPNs are that secure at the end of the day, especially the free ones. If it is free, you are the money they want. Look at example 5.
 </p>
 <br />
 
