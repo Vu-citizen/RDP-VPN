@@ -154,7 +154,7 @@ EXAMPLE 4A
 
 Once you have logged into your Proton VPN account on the VM, you will select “Downloads” and choose to download the “Windows” versionSee EXAMPLE 4B2. Once the application Proton VPN is installed we will log in using the credentials we used when setting up a free account on Proton VPN. Then connect to the VPN through the installed app. See EXAMPLE 4B1 when this steps are completed.  
 
-EXAMPLE 4B
+EXAMPLE 4B1
 <p>
   <img src="https://github.com/user-attachments/assets/f64b1fec-8fd5-4895-8723-29a851dadea5" height="80%" width="80%" alt="Image Analysis Dataflow"/>
 
@@ -164,7 +164,7 @@ EXAMPLE 4B
 <br />
 
 
-EXAMPLE 4B
+EXAMPLE 4B2
 <p>
     <img src="https://github.com/user-attachments/assets/866df8b9-820e-440a-a25f-f630fa6d5e49" height="80%" width="80%" alt="Image Analysis Dataflow"/>
 
