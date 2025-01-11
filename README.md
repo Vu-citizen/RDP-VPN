@@ -46,8 +46,8 @@ STEP 2 - Go to www.portal.azure.com and find Virtual Machines. (Create a free ac
 
 EXAMPLE 2A
 <p>
-<img src="![image](https://github.com/user-attachments/assets/4ea3c1ff-de81-45e7-8463-76d5c29d4050)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    <img src="https://github.com/user-attachments/assets/4ea3c1ff-de81-45e7-8463-76d5c29d4050" height="80%" width="80%" alt="Image Analysis Dataflow"/>
+
 </p>
 <p>
 
@@ -55,8 +55,8 @@ Creating the Virtual Machine on Example 2B the VM as “any name you want ” an
 
 EXAMPLE 2B
 <p>
-<img src="![image](https://github.com/user-attachments/assets/ad64ef82-489b-4946-89e8-5639b5ae517e)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://github.com/user-attachments/assets/ad64ef82-489b-4946-89e8-5639b5ae517e" height="80%" width="80%" alt="Image Analysis Dataflow"/>
+
 </p>
 <p>
 
@@ -67,8 +67,8 @@ For the Username and Password you can create your custom information, just recor
 
 EXAMPLE 2C
 <p>
-<img src="![image](https://github.com/user-attachments/assets/9998221b-10b5-40df-bd27-026247dffb5a)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    <img src="https://github.com/user-attachments/assets/9998221b-10b5-40df-bd27-026247dffb5a" height="80%" width="80%" alt="Image Analysis Dataflow"/>
+
 </p>
 <p>
 
@@ -79,8 +79,8 @@ Select the “Networking” tab towards the top of the page and view EXAMPLE 2D 
 
 EXAMPLE 2D
 <p>
-<img src="![image](https://github.com/user-attachments/assets/31f4627f-43fe-4c66-9dde-83a6af802a84)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+      <img src="https://github.com/user-attachments/assets/31f4627f-43fe-4c66-9dde-83a6af802a84" height="80%" width="80%" alt="Image Analysis Dataflow"/>
+
 </p>
 <p>
 
@@ -94,8 +94,7 @@ NEXT: At the Virtual Machine we find that the IP to the Virtual Machine is “20
 EXAMPLE 2E
 
 <p>
-<img src="![image](https://github.com/user-attachments/assets/e778a11f-588b-4d5d-ac56-d065d40cd2d8)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+        <img src="https://github.com/user-attachments/assets/e778a11f-588b-4d5d-ac56-d065d40cd2d8" height="80%" width="80%" alt="Image Analysis Dataflow"/>
 </p>
 <p>
 
@@ -109,11 +108,9 @@ Now that we have set up the Virtual Machine we will connecting to it using the a
 <br />
 EXAMPLE 3A
 <p>
-<img src="![image](https://github.com/user-attachments/assets/24443bcc-ddc1-4878-91f0-0fe4b4bfd354)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="![image](![image](https://github.com/user-attachments/assets/da1431a5-93a9-404d-9acd-ccf2e78a0261)
-)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+         <img src="https://github.com/user-attachments/assets/24443bcc-ddc1-4878-91f0-0fe4b4bfd354" height="80%" width="80%" alt="Image Analysis Dataflow"/>
+ <img src="https://github.com/user-attachments/assets/da1431a5-93a9-404d-9acd-ccf2e78a0261" height="80%" width="80%" alt="Image Analysis Dataflow"/>
+
 </p>
 <p>
 
@@ -123,8 +120,8 @@ EXAMPLE 3A
 
 EXAMPLE 3B
 <p>
-<img src="![image](https://github.com/user-attachments/assets/982643b7-1e66-44be-b979-b75407b871df)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+     <img src="https://github.com/user-attachments/assets/982643b7-1e66-44be-b979-b75407b871df" height="80%" width="80%" alt="Image Analysis Dataflow"/>
+
 </p>
 <p>
 
@@ -135,8 +132,8 @@ When we look up the IP address for this VM through www.whatismyipaddress.com we 
 
 EXAMPLE 3C
 <p>
-<img src="![image](https://github.com/user-attachments/assets/c8f99503-c0d5-4e8a-b7a4-3d1f580d4993)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+     <img src="https://github.com/user-attachments/assets/c8f99503-c0d5-4e8a-b7a4-3d1f580d4993" height="80%" width="80%" alt="Image Analysis Dataflow"/>
+
 </p>
 <p>
 
@@ -150,7 +147,8 @@ Using the local computer go to protonvpn.com and create a free account (if you u
 
 EXAMPLE 4A
 <p>
-<img src="https://i.imgur.com/orO2O5y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+      <img src="https://i.imgur.com/orO2O5y.png" height="80%" width="80%" alt="Image Analysis Dataflow"/>
+
 </p>
 <p>
 
@@ -158,7 +156,8 @@ Once you have logged into your Proton VPN account on the VM, you will select “
 
 EXAMPLE 4B
 <p>
-<img src="hhttps://github.com/user-attachments/assets/f64b1fec-8fd5-4895-8723-29a851dadea5" height="80%" width="80%" />
+  <img src="https://github.com/user-attachments/assets/f64b1fec-8fd5-4895-8723-29a851dadea5" height="80%" width="80%" alt="Image Analysis Dataflow"/>
+
 </p>
 <p>
 </p>
@@ -167,8 +166,8 @@ EXAMPLE 4B
 
 EXAMPLE 4B
 <p>
-<img src="![image](https://github.com/user-attachments/assets/866df8b9-820e-440a-a25f-f630fa6d5e49)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    <img src="https://github.com/user-attachments/assets/866df8b9-820e-440a-a25f-f630fa6d5e49" height="80%" width="80%" alt="Image Analysis Dataflow"/>
+
 </p>
 <p>
 
@@ -179,8 +178,8 @@ On the left hand side of the VPN you can select a country where you want your VP
 
 EXAMPLE 4C
 <p>
-<img src="![image](https://github.com/user-attachments/assets/627d9b70-12e7-4124-b4bd-4a8d3a29d58f)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+     <img src="https://github.com/user-attachments/assets/627d9b70-12e7-4124-b4bd-4a8d3a29d58f" height="80%" width="80%" alt="Image Analysis Dataflow"/>
+
 </p>
 <p>
 
@@ -191,8 +190,8 @@ Next we will look at the IP again using the VM browser now that we have connecte
 
 EXAMPLE 4D
 <p>
-<img src="![image](https://github.com/user-attachments/assets/ae16fbb3-2f8a-4d02-b97e-fbdd509ce143)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+      <img src="https://github.com/user-attachments/assets/ae16fbb3-2f8a-4d02-b97e-fbdd509ce143" height="80%" width="80%" alt="Image Analysis Dataflow"/>
+
 </p>
 <p>
 
@@ -202,14 +201,12 @@ Next we will look at the to use a new vpn service call nord vpn and connect to j
 
 EXAMPLE 5
 <p>
-<img src="![image](![image](https://github.com/user-attachments/assets/2c17e075-3557-4f07-bbae-dd0b796d03d1)
-)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   <img src="https://github.com/user-attachments/assets/2c17e075-3557-4f07-bbae-dd0b796d03d1" height="80%" width="80%" alt="Image Analysis Dataflow"/>
+
   <p>
-<img src="![image](![image](![image](https://github.com/user-attachments/assets/9817cdc4-f28c-4a5c-901e-1f659a56edc3)
-)
-)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+       <img src="https://github.com/user-attachments/assets/9817cdc4-f28c-4a5c-901e-1f659a56edc3" height="80%" width="80%" alt="Image Analysis Dataflow"/>
+
+
 </p>
 <p>
 
