@@ -13,7 +13,7 @@ This tutorial outlines the prerequisites and installation ousing a VPN.<br />
 - A VPN (Proton VPN)
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
--
+
 
 <h2>Operating Systems Used </h2>
 
