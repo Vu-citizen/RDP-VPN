@@ -33,7 +33,7 @@ STEP 1 - Locate your own personal IP address by going to "www.whatismyipaddress.
 
 EXAMPLE 1A
 <p>
-<img src="![image](https://github.com/user-attachments/assets/caf25865-660f-4e69-8e46-b8b48cf433c7))" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://github.com/user-attachments/assets/caf25865-660f-4e69-8e46-b8b48cf433c7" height="80%" width="80%" alt="Image Analysis Dataflow"/>
 </p>
 <p>
 
